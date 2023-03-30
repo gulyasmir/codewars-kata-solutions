@@ -1,0 +1,19 @@
+{
+  "name": "codewars-kata-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "codewars-kata-solutions"
+  },
+  "keywords": [
+    "javascript",
+    "codewars"
+  ],
+  "author": "gulyasmir",
+  "license": "ISC"
+}
