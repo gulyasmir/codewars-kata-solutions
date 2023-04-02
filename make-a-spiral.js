@@ -21,3 +21,6 @@ function spiralize(n) {
       })
     );
 }
+// run
+let spiral = spiralize(5)
+console.log(spiral)
